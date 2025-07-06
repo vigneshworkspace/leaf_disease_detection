@@ -1,5 +1,5 @@
 # leaf_disease_detection
-# 🍅 Leaf Disease Classifier using DenseNet121 (Multi-label)
+# 🍅 Leaf Disease Classifier
 
 This project implements a **multi-label classification model** using **DenseNet121** to detect multiple tomato leaf diseases. The model can identify more than one disease in a single image, enabling effective real-world diagnosis.
 
