@@ -44,7 +44,9 @@ This project implements a **multi-label classification model** using **DenseNet1
 - **Loss Function:** Binary Crossentropy
 - **Optimizer:** Adam
 - **Metrics:** Accuracy, AUC, Precision, Recall
-
+---
+## Comparing results with vanilla cnn
+[-->this repository<--]( https://github.com/vigneshworkspace/cnn-leaf_disease_classification )
 ---
 
 ## 🏁 How to Use
