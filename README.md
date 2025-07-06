@@ -125,8 +125,8 @@ weighted avg       0.95      0.95      0.95      1000
 
 ```
 ├── model.h5                 # Trained DenseNet121 model
-├── predict.py               # Inference script
-├── train_model.ipynb        # Training notebook
+├── leaf_disease_streamlit_app.py  # Streamlit
+├── leaf_diss.ipynb        # Training notebook
 ├── requirements.txt         # Dependencies
 ├── README.md                # Project overview
 └── /dataset                 # (download manually from Kaggle)
